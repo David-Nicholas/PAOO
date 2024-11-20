@@ -6,11 +6,11 @@
 
 class Vehicul {
 private:
-    std::string serie;
-    std::string tip;
-    std::string numar_inmatriculare;
-    std::string marca;
-    std::string culoare;
+    std::string serie = "\0";
+    std::string tip = "\0";
+    std::string numar_inmatriculare = "\0";
+    std::string marca = "\0";
+    std::string culoare = "\0";
 
 public:
     Vehicul(const std::string &serie, const std::string &tip, const std::string &numar_inmatriculare, 
