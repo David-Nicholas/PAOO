@@ -1,2 +1,4 @@
-# Tema 1 este pe branch-ul [Tema-1](https://github.com/David-Nicholas/PAOO/tree/Tema-1)
-# Tema 2 este pe branch-ul [Tema-2](https://github.com/David-Nicholas/PAOO/tree/Tema-2)
+Sa se scrie un proiect C++ care sa acopere principalele probleme descrise in urmatoarele item-uri, din cartea Effective ++:
+
+Item 13: Use objects to manage resources.
+Item 14: Think carefully about copying behavior in resource-managing classes.
